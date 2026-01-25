@@ -116,7 +116,7 @@ Bug and Suggestions:
 
 \* Email: @estuaryinteractive@gmail.com
 
-\* Itch.io/Steam: \[https://smartfield45.itch.io/echoes-of-ashes
+\* Itch.io \[https://smartfield45.itch.io/echoes-of-ashes
 
 &nbsp;
 
