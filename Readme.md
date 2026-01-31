@@ -1,4 +1,4 @@
-\# 🎮 The Arch
+\# 🎮 Echoes Of Ashes
 
 Developed by Estuary Interactive
 
