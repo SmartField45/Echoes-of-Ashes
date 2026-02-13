@@ -1,0 +1,77 @@
+🟢 Public Changelog
+Echoes of Ashes — Prototype Build v0.2
+
+#========================
+⚔️ Combat & Core Systems
+#========================
+
+1. Added a Stamina System with regeneration and persistent save support
+
+2. Introduced Roll / Dodge mechanics for evasive combat
+(Ctrl + W / A / S / D)
+
+3. Added Heavy Attack for high-risk, high-reward combat
+(Right Click)
+
+4. Combat Rebalance
+
+5. Attacks now consume stamina
+
+6. Rolling and running require stamina management
+
+7. Combat pacing adjusted to emphasize decision-making
+
+8. Combat Feedback Improvements
+
+9. Added knockback reactions for stronger hit impact
+
+10. Implemented screen shake for combat impact
+
+11. Screen shake can be enabled or disabled in Settings
+
+12. Added sword swing sound effects
+
+13. Improved enemy attack SFX timing and damage application
+
+14. Game Settings
+
+15. Game now launches in fullscreen by default
+
+16. Screen shake enabled by default (can be toggled)
+
+#==========
+👹 Enemies
+#==========
+
+1. Added a new enemy type: Skeleton
+
+2. Adjusted Necromancer attack range to better align with dodge mechanics
+
+#====================
+🎨 Presentation & UI
+#====================
+
+1. The Relic now appears visually in the End of Prototype Message
+
+2. Added a subtle glow effect to the Relic
+
+3. Arrow item pickup now includes a short animation
+
+4. Replaced Necromancer attack SFX with a non–AI-generated sound
+
+5. Added a Help button in the Main Menu explaining key controls
+
+#========
+🛠 Fixes
+#========
+
+1. Fixed Pause Menu not properly pausing the game or hiding UI
+
+2. Fixed health bar display issues for both player and enemies
+
+#===============
+# Prototype Note
+#===============
+This build continues to focus on combat feel, pacing, and presentation, rather than expanding content quantity.
+
+Feedback is highly appreciated.
