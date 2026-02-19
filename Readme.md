@@ -48,25 +48,21 @@ Make sure that you met this requirement:
 
 \### Controls
 
-| Action          | Key / Button |
+**Action** **Key / Button** 
 
-|                 |              |
+\* Movement / W, A, S, D
 
-| \*\*Movement\*\*    | W, A, S, D   |
+\* Roll / Ctrl + W,A,S,D
 
-| \*\*Roll\*\*        | Ctrl         |
+\* Run / Shift + W,A,S,D
 
-| \*\*Run\*\*         | Shift        |
+\* Interact / E
 
-| \*\*Interact\*\*    | E            |
+\* Attack / Left Click
 
-| \*\*Attack\*\*      | Left Click   |
+\* Heavy Attack / Right Click
 
-| \*\*Heavy Attack\*\*| Right Click  |
-
-| \*\*Movement\*\*    | W, A, S, D   |
-
-| \*\*Pause\*\*       | Esc          |
+\* Pause / Esc
 
 
 
@@ -151,4 +147,5 @@ Bug and Suggestions:
 ---
 
 © 2026 Estuary Interactive. All rights reserved.
+
 
