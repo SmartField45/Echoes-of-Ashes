@@ -64,7 +64,7 @@ Make sure that you met this requirement:
 
 \* Pause / Esc
 
-
+\* Throw / G + Mouse Position
 
 ---
 
