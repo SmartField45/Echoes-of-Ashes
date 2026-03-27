@@ -6,7 +6,7 @@ Estuary Interactive
 #--------------------
 1. Third-Party Assets
 #--------------------
-This Software incorporates visual and audio assets (including but not limited to textures, 3D models, sound effects, and music) sourced from third-party creators.
+This Software incorporates visual and audio assets (including but not limited to textures, 2D models, sound effects, and music) sourced from third-party creators.
 
 Ownership: All rights, titles, and interests in these assets belong strictly to their respective original authors.
 
@@ -22,30 +22,6 @@ All assets not explicitly credited to third parties or found in the public domai
 Any original character designs, unique UI elements, and custom-written scripts are protected under copyright law.
 
 Unauthorized extraction, redistribution, or commercial use of these proprietary assets is strictly prohibited.
-
-The Asset of Estuary Interactive:
-#~~~~
-Music
-#~~~~
-[Unknown] — [All Right Reserved]
-[Welcome] — [All Rght Reserved]
-[Before] — [All Right Reserved]
-[After] — [All Right Reserved]
-[Expected] — [All Right Reserved]
-
-#~~~~~
-Sprite 
-#~~~~~
-[Arrow Left] — [CC-BY 4.0]
-[Arrow Left Remastered] — [CC-BY 4.0]
-[Arrow Right] — [CC-BY 4.0]
-[Arrow Right Remastered] — [CC-BY 4.0]
-[Arrow Left Hover] — [CC-BY 4.0]
-[Arrow Right Hover] — [CC-BY 4.0]
-[E Button] — [CC-BY 4.0]
-[Item Pickup] — [CC-BY 4.0]
-[Game Icon] — [CC-BY 4.0]
-[Relic] — [CC-BY 4.0]
 
 #-------------
 3. Credit List
@@ -91,6 +67,31 @@ Sound Effect:
 
 [Negraovictor] — [Pop 1] — [https://pixabay.com/sound-effects/film-special-effects-pop-1-101427/] — [Pixabay Content License]
 
+[scarbelly25] — [Breathing] — [https://pixabay.com/id/sound-effects/rakyat-breathing-6091/] — [Pixabay Content License]
+
+[Freesound Community] — [022587_fire_crackling.wav] — [https://pixabay.com/id/sound-effects/film-efek-khusus-022587-fire-cracklingwav-73793/] — [Pixabay Content License]
+
+[shrek_30] — [lighter click fire woosh] — [https://pixabay.com/sound-effects/film-special-effects-lighter-click-fire-woosh-326482/] — [Pixabay Content License]
+
+[MUSICHOLDER] — [Fire extinguishing] — [https://pixabay.com/sound-effects/film-special-effects-fire-extinguishing-212651/] — [Pixabay Content License]
+
+[PantoMan] — [Monster Groan] — [https://pixabay.com/id/sound-effects/kengerian-monster-groan-487830/] — [Pixabay Content License]
+
+[SoundReality] — [Lighter 2] — [https://pixabay.com/sound-effects/film-special-effects-lighter-2-410607/] — [Pixabay Content License]
+
+[JuveriSetila (Freesound)] — [Medium Explosion] — [https://pixabay.com/id/sound-effects/film-efek-khusus-medium-explosion-40472/] — [Pixabay Content License]
+
+[BRVHRTZ] — [Heartbeat 02] — [https://pixabay.com/sound-effects/film-special-effects-heartbeat-02-225103/] — [Pixabay Content License]
+
+[mrickey13 (Freesound)] — [Item Equip] — [https://pixabay.com/id/sound-effects/film-efek-khusus-item-equip-6904/] — [Pixabay Content License]
+
+[Stu9] — [GLASS Crack] — [https://pixabay.com/sound-effects/film-special-effects-glass-crack-363162/] — [Pixabay Content License]
+
+[TheBuilder15 (Freesound)] — [Collapse] — [https://pixabay.com/sound-effects/film-special-effects-collapse-47652/] — [Pixabay Content License]
+
+[TheMediaGuy] — [Earthquake Rumble & Cracking] — [https://pixabay.com/sound-effects/nature-earthquake-rumble-amp-cracking-379298/] — [Pixabay Content License]
+
+[Rickplayer (Freesound)] — [Heal Up] — [https://pixabay.com/id/sound-effects/film-efek-khusus-heal-up-39285/] — [Pixabay Content License]
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Sprite, Tileset and Pixel Art
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -113,4 +114,10 @@ Sprite, Tileset and Pixel Art
 [MonoPixelArt] — [Pixel Art Skeletons Pack] — [https://monopixelart.itch.io/skeletons-pack] — [Check Link For More]
 
 [ThomasWasTaken] — [2D Pixel Art Forest Tent Tileset] — [https://thomaswastaken.itch.io/tileset] — [Check Link For More]
+
+[Tiegerator] — [Lighter Enemy] — [https://tiegerator.itch.io/lighter-enemy] — [No License]
+
+[wolf_viciox] — [Health Bar] — [https://wolf-viciox.itch.io/health-bar] — [No License]
+
+[CaptainSkolot] — [Fire Animation - Pixelart / Pixel Art sprite Fire Spells Pack RPG] — [https://captainskolot.itch.io/9-fire-animation-pixelart-pixel-art-sprite-fire-spells-pack-rpg] — [Creative Commons Attribution v4.0 International]
 
