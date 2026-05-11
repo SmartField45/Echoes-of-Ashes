@@ -1,4 +1,4 @@
-\# 🎮 Echoes of Tefra
+\# 🎮 Echoes of Ashes
 
 Developed by Estuary Interactive
 
