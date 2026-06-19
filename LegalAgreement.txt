@@ -1,0 +1,149 @@
+All Rights Reserved
+
+Copyright (c) 2026 Muhammad Hani Ilma Alfarabi
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+#=========================================================
+END USER LICENSE AGREEMENT (EULA)
+Copyright © 2026 Estuary Interactive. All Rights Reserved.
+#=========================================================
+
+#-----------------
+1. LICENSE GRANT
+#-----------------
+Estuary Interactive ("Author") grants you a non-exclusive, non-transferable, limited license to install and use this Game (the "Software") for personal, non-commercial entertainment purposes only. This license applies to both the Demo version and the Full version of the Software.
+
+#----------------
+2. RESTRICTIONS
+#----------------
+You are strictly prohibited from:
+
+Decompiling/Reverse Engineering: You may not copy, modify, disassemble, or decompile the source code of the Software.
+
+Asset Protection: All original artistic assets (graphics, music, characters, and 3D models) created by Estuary Interactive are proprietary. You may not extract, reuse, or redistribute these assets in any form.
+
+Redistribution: You may not sell, rent, lease, or sub-license this Software to any third party without express written consent from the Author.
+
+#----------------------
+3. THIRD-PARTY ASSETS
+#----------------------
+This Software contains third-party assets used under their respective free or open-source licenses. 
+These assets remain the property of their original creators. 
+The Author does not claim ownership over these specific external materials.
+
+#-------------
+4. OWNERSHIP
+#-------------
+The Software is licensed, not sold. 
+Estuary Interactive retains all rights, titles, and interests in and to the Software, including all intellectual property rights (source code, original assets, and branding).
+
+#---------------
+5. TERMINATION
+#---------------
+This license is effective until terminated. 
+Your rights under this license will terminate automatically without notice if you fail to comply with any terms of this EULA.
+
+#--------------
+6. DISCLAIMER
+#--------------
+THE SOFTWARE IS PROVIDED "AS IS". THE AUTHOR DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, INDIRECT, OR CONSEQUENTIAL DAMAGES RESULTING FROM THE USE OF THIS SOFTWARE.
+
+#========================================
+Privacy Policy
+Effective Date: 2026 Estuary Interactive
+#========================================
+
+At Estuary Interactive, we prioritize your privacy. This Privacy Policy outlines how we handle information in our game (the "Software").
+#--------------------
+1. No Data Collection
+#--------------------
+We believe in a "privacy-first" approach. This Software does not collect, store, or transmit any personal data or personally identifiable information (PII). This includes, but is not limited to:
+
+Names, email addresses, or contact information.
+
+Device IDs, IP addresses, or location data.
+
+Usage statistics or behavioral analytics.
+
+#--------------------------------
+2. No Accounts or Online Services
+#--------------------------------
+The Software operates as a standalone application. It does not require you to create an account, log in, or connect to any online services managed by the developer.
+
+#-----------------
+3. Local Data Only
+#-----------------
+Any data generated during gameplay (such as game progress, settings, or high scores) is stored locally on your device.
+
+We do not have access to your local save files.
+
+Deleting the Software may result in the permanent loss of this locally stored data, as we do not provide cloud synchronization.
+
+#-----------------------
+4. Third-Party Platforms
+#-----------------------
+If you purchase or download this Software through a third-party platform (such as Steam, itch.io, or Google Play), that platform may collect data according to their own privacy policies. We encourage you to review the privacy terms of the platform you use.
+
+#------------------------
+5. Changes to This Policy
+#------------------------
+We reserve the right to update this Privacy Policy if we add new features to the game. However, our commitment to your privacy will remain a priority.
+
+#------------
+6. Contact Us
+#------------
+If you have any questions regarding this Privacy Policy, you may contact us through our official distribution channels, estuaryinteractive@gmail.com
+
+#======================================
+Terms of Service (TOS)
+Last Updated: 2026 Estuary Interactive
+#======================================
+
+By accessing, downloading, or playing this game (the "Software"), you agree to be bound by the following terms and conditions:
+#-------------------------------------
+1. Ownership and Intellectual Property
+#-------------------------------------
+The Software, including its source code, logic, and all original artistic content (including but not limited to graphics, character designs, animations, and music) created by Estuary Interactive, is the exclusive property of the developer.
+
+Original Assets: All custom assets are protected by copyright laws. You are strictly prohibited from extracting, reusing, or redistributing these assets.
+
+Third-Party Assets: This game utilizes certain free/open-source assets. These remain the property of their respective owners and are used in accordance with their specific licenses.
+
+#--------------------------
+2. License and Restrictions
+#--------------------------
+Estuary Interactive grants you a personal, non-exclusive, and non-transferable license to use this Software for personal entertainment. Under this license, you may not:
+
+Redistribute, resell, or sub-license the Software to any third party.
+
+Claim the Software or any part of its code as your own creation.
+
+Attempt to decompile, reverse-engineer, or modify the Software's code for any purpose, including "malicious" or "modding" purposes without prior written consent.
+
+#-------------------------------
+3. "As-Is" Warranty & Liability
+#-------------------------------
+The Software is provided "as is" and "as available" without any warranties of any kind, either express or implied.
+
+No Guarantee: The developer does not guarantee that the Software will be bug-free or uninterrupted.
+
+Limitation of Liability: Estuary Interactive shall not be held responsible for any data loss, system errors, hardware damages, or any other issues arising from the installation or use of the Software.
+
+#---------------------
+4. Updates and Changes
+#---------------------
+Estuary Interactive reserves the right to modify, update, or discontinue the Software (or any part of it) and these Terms of Service at any time without prior notice. Continued use of the Software following any changes constitutes acceptance of the new terms.
+
+#-------------
+5. Termination
+#-------------
+Failure to comply with any of these terms will result in the immediate termination of your license to use the Software.
+
+---------------------------------------------------------------
