@@ -70,7 +70,11 @@ Make sure that you met this requirement:
 
 * Inventory / I
 
+* Skip Dialog or Next / Space
 
+* Up and Down Arrow / Choose
+
+* Enter / Confirm Choice
 
 ---
 
