@@ -1,0 +1,59 @@
+🟢 PUBLIC CHANGELOG v0.4
+
+Echoes of Ashes — Prototype Build v0.4
+
+#=========================
+⚔️ Combat System Overhaul
+#=========================
+1. Added healing campfire to improve combat fairness
+2. Implemented heal decay system to prevent abuse
+3. Added projectile system to support player combat options
+4. Improved combat feedback with reaction effects and visual polish
+5. Added new projectile system to support combat variety
+6. Introduced Dagger as a fast, precise ranged option
+7. Introduced Bomb with area explosion and knockback effect
+
+#=====================
+👹 Enemy AI Evolution
+#=====================
+1. Enemies can now seek healing areas and react under pressure, this also added panic behavior when enemies are low on health
+2. Orc now follows Necromancer when nearby
+3. Introduced new enemy type with explosive death mechanic
+4. Boss now has phase-based behavior and personality shift
+5. Added healing pillar system for boss encounters
+
+#=================
+🎨 UI & Game Flow
+#=================
+1. Fully remastered UI for better clarity and immersion
+2. Added boss health bar during encounters
+3. Added critical health screen effect (red overlay)
+4. Improved fullscreen resolution handling
+5. Added notification system for gameplay feedback
+
+#============================
+💾 Save & Settings Hardening
+#============================
+1. Improved save system for safer updates and stability
+2. Fixed UI volume settings not applying correctly
+
+#========================
+🎒 Systems & Interaction
+#========================
+1. Added simple inventory system (non-UI based)
+2. Integrated projectile usage with inventory system
+3. Added item-based combat interaction (dagger & bomb usage)
+
+#=====================
+🌍 World & Interaction
+#=====================
+1. Added No Escape combat area for boss encounters
+2. Introduced environmental interaction (healing zones and objects)
+3. Integrated custom tileset for improved visual identity
+
+#=============
+Prototype Note
+#=============
+Prototype v0.4 continues to refine combat depth, enemy behavior, and systemic interaction.
+This update focuses on how systems connect and react, rather than expanding content scope.
+Feedback is highly appreciated as development moves toward the next iteration.
