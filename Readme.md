@@ -146,11 +146,11 @@ This game is a commercial product by Estuary Interactive.
 
 Bug and Suggestions:
 
-* Email: @estuaryinteractive@gmail.com
+* Email: estuaryinteractive@gmail.com
 
-* Itch.io : https://smartfield45.itch.io/echoes-of-ashes
+* [Echoes of Ashes - Download on Itch.io](https://smartfield45.itch.io/echoes-of-ashes)
 
- 
+* [Echoes of Ashes - Play On Website](https://echoesofashes.netlify.app)
 
 
 ---
