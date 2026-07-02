@@ -92,6 +92,26 @@ Sound Effect:
 [TheMediaGuy] — [Earthquake Rumble & Cracking] — [https://pixabay.com/sound-effects/nature-earthquake-rumble-amp-cracking-379298/] — [Pixabay Content License]
 
 [Rickplayer (Freesound)] — [Heal Up] — [https://pixabay.com/id/sound-effects/film-efek-khusus-heal-up-39285/] — [Pixabay Content License]
+
+[u_88mxldp72k] — [Grass] — [https://pixabay.com/sound-effects/nature-grass-227860/] — [Pixabay Content License]
+
+[FocusBay (Freesound)] — [Running On Dirt] — [https://pixabay.com/sound-effects/household-running-on-dirt-87203/]
+
+[SoundReality] — [Battle Pop] — [https://pixabay.com/sound-effects/film-special-effects-battle-pop-424581/]
+
+[Neotone (Freesound)] — [Thump] — [https://pixabay.com/sound-effects/musical-thump-87726/]
+
+[hasin2004] — [Breathing fast] — [https://pixabay.com/sound-effects/people-breathing-fast-247449/]
+
+[u_o8xh7gwsrj] — [app_interface_click_2] — [https://pixabay.com/sound-effects/app-interface-click-2-476372/]
+
+[GFX Sounds] — [Clock tick - single] — [https://uppbeat.io/sfx/clock-tick-single/166337/47406]
+
+[Dany_photo] — [Water] — [https://pixabay.com/sound-effects/nature-water-423114/]
+
+[NCPRIME] — [keyboard typing one short 1] — [https://pixabay.com/id/sound-effects/film-efek-khusus-keyboard-typing-one-short-1-292590/]
+
+[EminYILDIRIM] — [Bow Loading] — [https://pixabay.com/sound-effects/film-special-effects-bow-loading-38752/]
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Sprite, Tileset and Pixel Art
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -120,4 +140,6 @@ Sprite, Tileset and Pixel Art
 [wolf_viciox] — [Health Bar] — [https://wolf-viciox.itch.io/health-bar] — [No License]
 
 [CaptainSkolot] — [Fire Animation - Pixelart / Pixel Art sprite Fire Spells Pack RPG] — [https://captainskolot.itch.io/9-fire-animation-pixelart-pixel-art-sprite-fire-spells-pack-rpg] — [Creative Commons Attribution v4.0 International]
+
+[Elthen's Pixel Art Shop] — [2d Pixel Art Training Dummy Sprites] — [https://elthen.itch.io/2d-pixel-art-training-dummy] — [https://www.patreon.com/elthen/posts/licensing-27430241]
 
